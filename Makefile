@@ -1,0 +1,1 @@
+alma: sudo bash almalinux/entrypoint.sh

@@ -1,0 +1,5 @@
+make: Entering directory '/home/matus/projects/shell-nas'
+make: Leaving directory '/home/matus/projects/shell-nas'
+ 
+Makefile:1: *** missing separator.  Stop.
+
