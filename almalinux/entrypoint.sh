@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
-# if running as a regular user, warn and exit.
-if [ "$SUDO_USER" != "root" ]; then
-  echo "WARNING: This script should be run as root."
-  exit 1
-fi
+
 harden_firewall() {
     # allow SSH
     iptables -A INPUT -p tcp --dport 22 -j ACCEPT
