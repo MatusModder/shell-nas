@@ -1,1 +1,4 @@
-alma: bash almalinux/entrypoint.sh
+alma: ./almalinux/entrypoint.sh
+
+chmod-alma:
+	chmod +x almalinux/entrypoint.sh
