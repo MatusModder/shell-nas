@@ -3,4 +3,4 @@
 ## Brief Objective
 We are automating lotta things today (some work routines etc. etc.). This is a repo, where I collect some automation scripts for various distros. This repo only collects scripts related to set up a self-built NAS/repurposing PCs to the NAS/server role. 
 ## Contents of each dirs
-Right now, there is only one directory,
+Right now, there is only one directory, almalinux. If you want to make scripts for another distro, see [CONTRIBUTING.md](CONTRIBUTING.md).
